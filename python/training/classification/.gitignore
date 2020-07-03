@@ -1,0 +1,8 @@
+*.pyc
+*.pth.tar
+*.onnx
+*.engine
+*.jpg
+*.png
+cat_dog*
+plants*

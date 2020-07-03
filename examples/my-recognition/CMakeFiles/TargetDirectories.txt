@@ -1,0 +1,3 @@
+/home/nvidia/yj/jetson-inference/examples/my-recognition/CMakeFiles/rebuild_cache.dir
+/home/nvidia/yj/jetson-inference/examples/my-recognition/CMakeFiles/my-recognition.dir
+/home/nvidia/yj/jetson-inference/examples/my-recognition/CMakeFiles/edit_cache.dir

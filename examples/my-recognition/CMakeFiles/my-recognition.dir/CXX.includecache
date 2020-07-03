@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/yj/jetson-inference/examples/my-recognition/my-recognition.cpp
+jetson-inference/imageNet.h
+-
+jetson-utils/loadImage.h
+-
+
